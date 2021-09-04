@@ -2,3 +2,4 @@ EK start work
 smthn add
 add risk
 добавлено на риски1
+добавлено на мастере
